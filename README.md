@@ -2,6 +2,13 @@
 2024年列表 收录的网站将会展示在 www.langhai.net 当中。[点击访问](http://www.langhai.net)
 
 如何提交，提交pr即可，或者到网站提交收录，两边会同步数据。  [提交收录](http://www.langhai.net/langhai/langhai-2024/langhai-record.html)  
+
+```
+提交收录之前，务必在贵站底部或者友情链接页面添加上本站友情链接信息。
+网站名字：浪海导航 网站路径：https://www.langhai.net
+网站头像：https://www.langhai.net/assets/images/favicon.ico 或者 https://www.langhai.net/assets/images/langhai-blogs.svg
+```
+
 2024年列表  
 
 ```
