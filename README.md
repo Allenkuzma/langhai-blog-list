@@ -22,5 +22,7 @@ Java实战博客 00002号 一个Java原创、真实战、免费博客站点。 h
 云晓晨CatchYun 00008号 未来路远 • 勿忘初心。  https://blog.catchyun.com/  
 运维开发绿皮书 00009号 运维开发绿皮书技术博客站点。  https://www.geekery.cn/  
 没有楼的楼长 00010号 事已至此，木已成舟。https://blog.sdnie.fun/
+一个薄荷 00011号 懒癌晚期95后的网络折腾和生活记录。 https://abohe.cn/
+不知道叫什么の小窝 00012号 Your New World!ヽ(*≧ω≦)ﾉ https://www.bzdjsm.com/ 
 ```
 
