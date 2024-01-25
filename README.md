@@ -29,5 +29,6 @@ Hary的博客 00013号 这是我在网络上的一个在线记事本，记录一
 丝诺博了个客 00015号 个人博客记二次三次日常。 https://zhangxue.name/
 辉辉狐的笔记 00016号 辉辉狐的个人笔记空间。 https://note.ifoxhui.com/
 时雨の一方净土🌈 00017号 一个灵魂的栖息地🦖🦖🦖。 https://noesis.love/
+Moraxyc’s Rhapsody 00018号 https://moraxyc.com
 ```
 
