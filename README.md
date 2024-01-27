@@ -34,5 +34,6 @@ Moraxyc’s Rhapsody 00018号 https://moraxyc.com
 杨刚的个人网站 00020号 免费、全面的编程笔记。 https://www.ygang.top/
 Chenli 00021号 记录生活，分享生活。 https://chenliss.cn/
 诸天万道 00022号 诸天万道，取自《我的女徒弟们都是未来诸天大佬》漫画，是集视觉、硬件、项目、技术为一体的个人博客。 https://ztwd.online/
+贝塔博客 00023号 一个热爱分享源码笔记的小程序员的小站...... https://11cty.com/
 ```
 
