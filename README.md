@@ -32,6 +32,9 @@ Hary的博客 00013号 这是我在网络上的一个在线记事本，记录一
 Moraxyc’s Rhapsody 00018号 https://moraxyc.com
 倾城于你 00019号 一个热爱分享的Typecho小站。 https://qninq.cn/
 杨刚的个人网站 00020号 免费、全面的编程笔记。 https://www.ygang.top/
+Chenli 00021号 记录生活，分享生活。 https://chenliss.cn/
+诸天万道 00022号 诸天万道，取自《我的女徒弟们都是未来诸天大佬》漫画，是集视觉、硬件、项目、技术为一体的个人博客。 https://ztwd.online/
+贝塔博客 00023号 一个热爱分享源码笔记的小程序员的小站...... https://11cty.com/
 飞飞哥博客 00024号 飞飞哥博客致力于分享日常生活，情感吐槽，web前端技术，编程语言技术的学习研究，相互学习，每天进步一点点，日积月累哦！ http://blog.feifeige.top/
 ```
 
