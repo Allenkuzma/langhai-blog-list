@@ -39,5 +39,6 @@ Chenli 00021号 记录生活，分享生活。 https://chenliss.cn/
 李慕然的一天 00025号 衣带渐宽终不悔，为伊消得人憔悴。 https://limuran.top/
 百品博客 00026号 未来即脚下，山河皆邈邈。 https://baipin.pw/
 柳铃的个人笔记 00027号 一方寂静的角落里，有一间歪斜的小木屋，在那不尽的狂风中，木屋似乎随时都会消失。 https://www.rmoe.top/
+拾壹博客 00028号 一个专注技术分享的平台。 https://www.shiyit.com/
 ```
 
