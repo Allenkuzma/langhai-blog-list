@@ -41,5 +41,6 @@ Chenli 00021号 记录生活，分享生活。 https://chenliss.cn/
 柳铃的个人笔记 00027号 一方寂静的角落里，有一间歪斜的小木屋，在那不尽的狂风中，木屋似乎随时都会消失。 https://www.rmoe.top/
 拾壹博客 00028号 一个专注技术分享的平台。 https://www.shiyit.com/
 陈陈菌博客 00029号 一个计算机业余爱好者，喜欢折腾些有的没的。 https://blog.glumi.cn/
+黑羽的个人博客 00030号 黑羽的个人博客，日常分享记录。 https://blog.thetbw.xyz/
 ```
 
