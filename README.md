@@ -44,5 +44,6 @@ Chenli 00021号 记录生活，分享生活。 https://chenliss.cn/
 黑羽的个人博客 00030号 黑羽的个人博客，日常分享记录。 https://blog.thetbw.xyz/
 冰火之砺 00031号 坚冰般信念方铸烈火雄心。 https://blog.marice.top/
 辣条网 00032号 一个划水的可能算是技术类的网站。 https://www.latiao.org/
+呓语梦轩 00033号 用心享受生活。 https://blog.awaae001.top/
 ```
 
