@@ -43,5 +43,6 @@ Chenli 00021号 记录生活，分享生活。 https://chenliss.cn/
 陈陈菌博客 00029号 一个计算机业余爱好者，喜欢折腾些有的没的。 https://blog.glumi.cn/
 黑羽的个人博客 00030号 黑羽的个人博客，日常分享记录。 https://blog.thetbw.xyz/
 冰火之砺 00031号 坚冰般信念方铸烈火雄心。 https://blog.marice.top/
+辣条网 00032号 一个划水的可能算是技术类的网站。 https://www.latiao.org/
 ```
 
