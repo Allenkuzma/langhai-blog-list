@@ -46,5 +46,6 @@ Chenli 00021号 记录生活，分享生活。 https://chenliss.cn/
 辣条网 00032号 一个划水的可能算是技术类的网站。 https://www.latiao.org/
 呓语梦轩 00033号 用心享受生活。 https://blog.awaae001.top/
 小野博客 00034号 小野（Hirono）博客的个人网站，主要讲述关于小野的一些陈芝麻烂谷子事。 https://lb5.net/
+厄尔科斯 00035号 架空世界-厄尔科斯。 https://sikan.moe/
 ```
 
