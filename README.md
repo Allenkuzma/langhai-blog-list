@@ -50,5 +50,7 @@ Chenli 00021号 记录生活，分享生活。 https://chenliss.cn/
 Muidar’s Site 00036号 努力学习，活在当下。 https://muidar.com/
 Pnnk - 独り言つ 00037号 生活分享类型的博客。 https://www.spnnk.com/
 裴先生笔记 00038号 探索，解决，提升，分享。 https://blog.peiluming.com
+洋芋博客 00039号 什么都分享，做自己想做的。 https://blog.51yangyu.cn/
+先生博客 00040号 知不可乎骤得，托遗响于悲风。 https://mister.cn/
 ```
 
