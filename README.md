@@ -52,5 +52,6 @@ Pnnk - 独り言つ 00037号 生活分享类型的博客。 https://www.spnnk.co
 裴先生笔记 00038号 探索，解决，提升，分享。 https://blog.peiluming.com
 洋芋博客 00039号 什么都分享，做自己想做的。 https://blog.51yangyu.cn/
 先生博客 00040号 知不可乎骤得，托遗响于悲风。 https://mister.cn/
+一恒的网志 00041号 与你分享我十多年来所见、所闻、所思、所做、所感、所悟。 https://www.xze.cc/
 ```
 
