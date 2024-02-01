@@ -49,5 +49,6 @@ Chenli 00021号 记录生活，分享生活。 https://chenliss.cn/
 厄尔科斯 00035号 架空世界-厄尔科斯。 https://sikan.moe/
 Muidar’s Site 00036号 努力学习，活在当下。 https://muidar.com/
 Pnnk - 独り言つ 00037号 生活分享类型的博客。 https://www.spnnk.com/
+裴先生笔记 00038号 探索，解决，提升，分享。 https://blog.peiluming.com
 ```
 
