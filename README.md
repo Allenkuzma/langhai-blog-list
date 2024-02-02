@@ -54,5 +54,8 @@ Pnnk - 独り言つ 00037号 生活分享类型的博客。 https://www.spnnk.co
 先生博客 00040号 知不可乎骤得，托遗响于悲风。 https://mister.cn/
 一恒的网志 00041号 与你分享我十多年来所见、所闻、所思、所做、所感、所悟。 https://www.xze.cc/
 青灯暮雨 00042号 再渺小的星光，也有属于它的光芒。 https://www.blatr.cn/
+冥狐的小站 00043号 如无必要，勿增实体。 https://www.darkfox.top/
+SerMs 00044号 代码如诗，细节成就极致，逻辑成就完美。 https://blog.serms.top/
+弋调草野 00045号 如野草般一岁一枯荣。 https://www.aliuying.com/
 ```
 
