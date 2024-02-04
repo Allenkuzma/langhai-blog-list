@@ -57,5 +57,6 @@ Pnnk - 独り言つ 00037号 生活分享类型的博客。 https://www.spnnk.co
 冥狐的小站 00043号 如无必要，勿增实体。 https://www.darkfox.top/
 SerMs 00044号 代码如诗，细节成就极致，逻辑成就完美。 https://blog.serms.top/
 弋调草野 00045号 如野草般一岁一枯荣。 https://www.aliuying.com/
+柳丝资源网 00046号 博客、论坛、资源、技术、分享。 https://www.liusi.net/
 ```
 
