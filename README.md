@@ -58,5 +58,7 @@ Pnnk - 独り言つ 00037号 生活分享类型的博客。 https://www.spnnk.co
 SerMs 00044号 代码如诗，细节成就极致，逻辑成就完美。 https://blog.serms.top/
 弋调草野 00045号 如野草般一岁一枯荣。 https://www.aliuying.com/
 柳丝资源网 00046号 博客、论坛、资源、技术、分享。 https://www.liusi.net/
+栋DONG的个人站点 个人站点，一些刷题日记和JAVA小项目，你可以在这里找到一些LeetCode的经典题目和一些蓝桥杯的往届赛题。 langhai-00047 https://dongdong741236.cn/
+烧瑚烙饼乱刨笔记 一个2024应届中考生的闲(发)言(疯)碎(日)语(常)。 langhai-00048 https://blog.laobinghu.top/
 ```
 
