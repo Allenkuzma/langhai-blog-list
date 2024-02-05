@@ -60,5 +60,6 @@ SerMs 00044号 代码如诗，细节成就极致，逻辑成就完美。 https:/
 柳丝资源网 00046号 博客、论坛、资源、技术、分享。 https://www.liusi.net/
 栋DONG的个人站点 个人站点，一些刷题日记和JAVA小项目，你可以在这里找到一些LeetCode的经典题目和一些蓝桥杯的往届赛题。 langhai-00047 https://dongdong741236.cn/
 烧瑚烙饼乱刨笔记 一个2024应届中考生的闲(发)言(疯)碎(日)语(常)。 langhai-00048 https://blog.laobinghu.top/
+兔兔博客🇨🇳 万事都要全力以赴，包括开心。 langhai-00049 https://blog.tutuxka.eu.org/
 ```
 
