@@ -67,5 +67,6 @@ KEVIN'S BLOG perseverance。 langhai-00052 https://blog.kevinly.com.cn/
 卡库伊2.0 IT资源和技术分享博客。 langhai-00053 https://blog.kkii.org/
 朝闻道 所谓超人，就是按客观规律办事的人。 langhai-00054 https://spider666.icu/
 WCOWIN'S WEB 循此苦旅，以达星辰。 langhai-00055 https://wcowin.work/
+TAOSU`HOME FATA。 langhai-00056 https://blog.yblue.top/
 ```
 
