@@ -65,5 +65,6 @@ SerMs 00044号 代码如诗，细节成就极致，逻辑成就完美。 https:/
 超光速 我们的目标是星辰大海！超光速恐咖兵糖的小站。 langhai-00051 https://www.ftls.xyz/
 KEVIN'S BLOG perseverance。 langhai-00052 https://blog.kevinly.com.cn/
 卡库伊2.0 IT资源和技术分享博客。 https://blog.kkii.org/
+朝闻道 所谓超人，就是按客观规律办事的人。 https://spider666.icu/
 ```
 
