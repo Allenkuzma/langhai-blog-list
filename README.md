@@ -68,5 +68,7 @@ KEVIN'S BLOG perseverance。 langhai-00052 https://blog.kevinly.com.cn/
 朝闻道 所谓超人，就是按客观规律办事的人。 langhai-00054 https://spider666.icu/
 WCOWIN'S WEB 循此苦旅，以达星辰。 langhai-00055 https://wcowin.work/
 TAOSU`HOME FATA。 langhai-00056 https://blog.yblue.top/
+圆周率的博客 一名中学生的个人博客。PC，web and every interesting things。 langhai-00057 https://www.yuanzj.top/
+鼠鼠在碎觉 我是不慎落入世界的一滴水墨。 langhai-00058 https://www.sszsj.cc/
 ```
 
