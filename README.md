@@ -62,5 +62,6 @@ SerMs 00044号 代码如诗，细节成就极致，逻辑成就完美。 https:/
 烧瑚烙饼乱刨笔记 一个2024应届中考生的闲(发)言(疯)碎(日)语(常)。 langhai-00048 https://blog.laobinghu.top/
 兔兔博客🇨🇳 万事都要全力以赴，包括开心。 langhai-00049 https://blog.tutuxka.eu.org/
 以太工坊 以太工坊-分享计算机学习笔记、经验与有趣的小玩意。 langhai-00050 https://www.zair.top/
+超光速 我们的目标是星辰大海！超光速恐咖兵糖的小站。 langhai-00051 https://www.ftls.xyz/
 ```
 
