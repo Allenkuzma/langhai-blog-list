@@ -1,7 +1,7 @@
 浪海导航：收录博客论坛，博客论坛列表。   QQ交流群 585975304  
 2024年列表 收录的网站将会展示在 www.langhai.net 当中。[点击访问](http://www.langhai.net)
 
-如何提交，提交pr即可，或者到网站提交收录，两边会同步数据。  [提交收录](http://www.langhai.net/langhai/langhai-2024/langhai-record.html)  
+如何提交，提交pr即可，或者到网站提交收录，两边会同步数据。  [提交收录](http://www.langhai.net/record)  
 
 ```
 提交收录之前，务必在贵站底部或者友情链接页面添加上本站友情链接信息。
