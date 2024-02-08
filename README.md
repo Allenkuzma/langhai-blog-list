@@ -70,5 +70,7 @@ WCOWIN'S WEB 循此苦旅，以达星辰。 langhai-00055 https://wcowin.work/
 TAOSU`HOME FATA。 langhai-00056 https://blog.yblue.top/
 圆周率的博客 一名中学生的个人博客。PC，web and every interesting things。 langhai-00057 https://www.yuanzj.top/
 鼠鼠在碎觉 我是不慎落入世界的一滴水墨。 langhai-00058 https://www.sszsj.cc/
+小不的窝-分かりません 小不的窝是一个记录生活，分享知识的个人博客。主要记录生活经历，自己写的程序原理,茫茫人海中留下些许足迹。 langhai-00059 https://blog.donotknow.top/
+你好，廖姑娘！-言七 你看南风起，等一故人来！ langhai-00060 https://anjonl.cn/
 ```
 
