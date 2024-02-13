@@ -74,5 +74,6 @@ TAOSU`HOME FATA。 langhai-00056 https://blog.yblue.top/
 你好，廖姑娘！-言七 你看南风起，等一故人来！ langhai-00060 https://anjonl.cn/
 点墨阁 寄情山水的arch玩客。 langhai-00061 https://blog.m-l.cc/
 卡法氘我在 堪破有为法，笑迦南之花。 langhai-00062 https://kaffa.im/
+DENGQN BLOG 一个普通程序员。 langhai-00063 https://dengqn.com/
 ```
 
