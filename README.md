@@ -75,5 +75,6 @@ TAOSU`HOME FATA。 langhai-00056 https://blog.yblue.top/
 点墨阁 寄情山水的arch玩客。 langhai-00061 https://blog.m-l.cc/
 卡法氘我在 堪破有为法，笑迦南之花。 langhai-00062 https://kaffa.im/
 DENGQN BLOG 一个普通程序员。 langhai-00063 https://dengqn.com/
+茶兔社区 茶兔社区提供便捷的交流平台，帮助广大用户获得更广阔的天地！ langhai-00064 https://www.teatu.cn/
 ```
 
