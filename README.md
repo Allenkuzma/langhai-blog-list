@@ -76,5 +76,7 @@ TAOSU`HOME FATA。 langhai-00056 https://blog.yblue.top/
 卡法氘我在 堪破有为法，笑迦南之花。 langhai-00062 https://kaffa.im/
 DENGQN BLOG 一个普通程序员。 langhai-00063 https://dengqn.com/
 茶兔社区 茶兔社区提供便捷的交流平台，帮助广大用户获得更广阔的天地！ langhai-00064 https://www.teatu.cn/
+Q2019的小站 欢迎访问我的个人网站，我会在这里记录我日常生活中碰到的技术问题并分享。 langhai-00065 https://www.q2019.com/
+海鸥之声 天清江月白，心静海鸥知。 langhai-00066 https://2001k.com/
 ```
 
