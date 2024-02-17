@@ -80,5 +80,7 @@ Q2019的小站 欢迎访问我的个人网站，我会在这里记录我日常�
 海鸥之声 天清江月白，心静海鸥知。 langhai-00066 https://2001k.com/
 SHIMMER的博客 shimmer的个人博客站，旨在记录生活，分享知识。 langhai-00067 https://wp-boke.work/
 我鬼知道の博客 你好啊，这里是，我鬼知道の博客，也是一个小白の技术性博客，主要研究Windows，WordPress和其它好玩的东西，欢迎来玩~ langhai-00068 https://www.wgzdy.top/
+那云博客 那云博客致力于各种黑群晖教程，包含固件下载、插件安装、编译分享等教程，分享品牌路由器设置测评、磁力资源推荐、谷歌学术搜索、服务器科学脚本安装的解决方案，web建站、国内外服务器推荐、网站源码下载分享等精品技术教程。 langhai-00069 https://www.thatcloud.cn/
+江湖小白 一个咸鱼的朋友圈。 langhai-00070 https://blog.lshl.bid/
 ```
 
