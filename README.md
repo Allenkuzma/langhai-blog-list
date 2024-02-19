@@ -83,5 +83,6 @@ SHIMMER的博客 shimmer的个人博客站，旨在记录生活，分享知识�
 那云博客 那云博客致力于各种黑群晖教程，包含固件下载、插件安装、编译分享等教程，分享品牌路由器设置测评、磁力资源推荐、谷歌学术搜索、服务器科学脚本安装的解决方案，web建站、国内外服务器推荐、网站源码下载分享等精品技术教程。 langhai-00069 https://www.thatcloud.cn/
 江湖小白 一个咸鱼的朋友圈。 langhai-00070 https://blog.lshl.bid/
 〇°  今天快乐。 langhai-00071 https://lingdu.love/
+笨猪 云服务器的搭建与代码经验分享的个人博客。 langhai-00072 https://www.benzhu.xyz/
 ```
 
