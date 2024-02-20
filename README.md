@@ -84,5 +84,9 @@ SHIMMER的博客 shimmer的个人博客站，旨在记录生活，分享知识�
 江湖小白 一个咸鱼的朋友圈。 langhai-00070 https://blog.lshl.bid/
 〇°  今天快乐。 langhai-00071 https://lingdu.love/
 笨猪 云服务器的搭建与代码经验分享的个人博客。 langhai-00072 https://www.benzhu.xyz/
+风呼呼-无病呻吟的酱油瓶！ 个人古诗词作品博客，望高才能不吝赐教！ langhai-00073 https://whooc.com/
+随思南游 生如夏花之绚烂，死如秋叶之静。 langhai-00074 https://www.ssnur.com/
+LEMONT的博客 lemont个人小站，一个写博客的地方，记录工作、生活中的点点滴滴，不定期更新分享网站模版、python学习教程、学习资料、web开发教程及IT技术等资源。随意自取，欢迎指点。 langhai-00075 http://www.bylemon.cn/
+星辰博客-HOPEFORSTAR 星辰博客——hopeforstar。 langhai-00076 https://blog.starchen.top/
 ```
 
