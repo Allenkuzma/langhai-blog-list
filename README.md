@@ -88,5 +88,6 @@ SHIMMER的博客 shimmer的个人博客站，旨在记录生活，分享知识�
 随思南游 生如夏花之绚烂，死如秋叶之静。 langhai-00074 https://www.ssnur.com/
 LEMONT的博客 lemont个人小站，一个写博客的地方，记录工作、生活中的点点滴滴，不定期更新分享网站模版、python学习教程、学习资料、web开发教程及IT技术等资源。随意自取，欢迎指点。 langhai-00075 http://www.bylemon.cn/
 星辰博客-HOPEFORSTAR 星辰博客——hopeforstar。 langhai-00076 https://blog.starchen.top/
+JRINのBLOG 世间所有的相遇都是久别重逢~ langhai-00077 https://jrdit.github.io/
 ```
 
