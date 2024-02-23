@@ -91,5 +91,6 @@ LEMONT的博客 lemont个人小站，一个写博客的地方，记录工作、�
 JRINのBLOG 世间所有的相遇都是久别重逢~ langhai-00077 https://jrdit.github.io/
 MORAEX博客 欢迎来到MoraEX博客，这里是一个新媒体行业社畜用来在互联网上留下痕迹的网站，在这里你能够看到我的日常生活；学习笔记；到处瞎拍的照片以及一些玩机教程等东西。 langhai-00078 https://www.moraex.com/
 卓越笔记 本站含python,django,uwsgi,软件测试,电脑使用技巧等方面的使用总结。 langhai-00079 http://xieboke.net/
+OLDMING的杂货铺 记录生活碎碎念。 langhai-00080 https://www.oldming.cn/
 ```
 
