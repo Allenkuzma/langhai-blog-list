@@ -93,5 +93,6 @@ MORAEX博客 欢迎来到MoraEX博客，这里是一个新媒体行业社畜用�
 卓越笔记 本站含python,django,uwsgi,软件测试,电脑使用技巧等方面的使用总结。 langhai-00079 http://xieboke.net/
 OLDMING的杂货铺 记录生活碎碎念。 langhai-00080 https://www.oldming.cn/
 DONGDONG’S BLOG 科研、学习和生活中遇到的问题，解决之后，汇总成文档。 langhai-00081 https://ddw2019.com/
+EVAN'S SPACE Keep it real。 langhai-00082 https://www.hievan.cn/
 ```
 
