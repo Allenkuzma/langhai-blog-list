@@ -94,5 +94,6 @@ MORAEX博客 欢迎来到MoraEX博客，这里是一个新媒体行业社畜用�
 OLDMING的杂货铺 记录生活碎碎念。 langhai-00080 https://www.oldming.cn/
 DONGDONG’S BLOG 科研、学习和生活中遇到的问题，解决之后，汇总成文档。 langhai-00081 https://ddw2019.com/
 EVAN'S SPACE Keep it real。 langhai-00082 https://www.hievan.cn/
+梁某人 梁某人的IT技术博客是一个专注于编程技巧与软件推荐的网站，提供最新的IT科技资讯、编程教程和热门软件推荐，帮助读者掌握最新的IT趋势和技术应用。 langhai-00083 https://mtabc.top/
 ```
 
