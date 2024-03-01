@@ -97,5 +97,6 @@ EVAN'S SPACE Keep it real。 langhai-00082 https://www.hievan.cn/
 梁某人 梁某人的IT技术博客是一个专注于编程技巧与软件推荐的网站，提供最新的IT科技资讯、编程教程和热门软件推荐，帮助读者掌握最新的IT趋势和技术应用。 langhai-00083 https://mtabc.top/
 QXDN的乐园 蓬生麻中，不扶自直。 langhai-00084 https://qianxu.run/
 AHXIN|我是AH新呀~ 我是ah新呀~ langhai-00085 https://ahxin.cn/
+君莫愁 莫愁前路无知己，天下谁人不识君。 langhai-00086 https://blog.shimail.cn/
 ```
 
