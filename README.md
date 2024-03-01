@@ -99,5 +99,6 @@ QXDN的乐园 蓬生麻中，不扶自直。 langhai-00084 https://qianxu.run/
 AHXIN|我是AH新呀~ 我是ah新呀~ langhai-00085 https://ahxin.cn/
 君莫愁 莫愁前路无知己，天下谁人不识君。 langhai-00086 https://blog.shimail.cn/
 晨狐戏语 晨狐戏语又称晨狐博客（LiuZhuai.COM）,平行宇宙的一个宁静角落-晨狐的个人鼠窝最早搭建于2020年02月02日，仅用于分享资源，记录生活点滴以及发布一些言论。晨狐博客仅可以保存每篇文章都很有阅读价值。 langhai-00087 https://blog.liuzhuai.com/
+小C的时光归档 Bydesign,theInternetcoreisstupid,andtheedgeissmart. langhai-00088 https://a0v0a.cn/
 ```
 
