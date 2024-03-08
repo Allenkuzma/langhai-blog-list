@@ -103,5 +103,6 @@ AHXIN|我是AH新呀~ 我是ah新呀~ langhai-00085 https://ahxin.cn/
 阿南笔记 原创日记以及网络软件分享，爱生活，爱软件，爱代码，爱学习！ langhai-00089 https://aednn.com/
 丫丫博客 一个技术分享与教程交流博客论坛。 langhai-00090 https://blog.yaqwq.top/
 胡家荣 这里是胡家荣的个人网站。 langhai-00091 https://hujiarong.site/
+狗头的作品 有一分热，发一分光。 langhai-00092 https://www.toolr.cn/
 ```
 
