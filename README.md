@@ -105,5 +105,6 @@ AHXIN|我是AH新呀~ 我是ah新呀~ langhai-00085 https://ahxin.cn/
 胡家荣 这里是胡家荣的个人网站。 langhai-00091 https://hujiarong.site/
 狗头的作品 有一分热，发一分光。 langhai-00092 https://www.toolr.cn/
 光溯星河 博学笃志，切问近思。 langhai-00093 https://blog.tsio.top/
+KARPED1EM 也许不会有人来看，但我依旧会在这里记录我的一切，致那为数不多像你一样关注着我的人。 langhai-00094 https://leever.cn/
 ```
 
