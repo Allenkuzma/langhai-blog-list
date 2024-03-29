@@ -107,5 +107,6 @@ AHXIN|我是AH新呀~ 我是ah新呀~ langhai-00085 https://ahxin.cn/
 光溯星河 博学笃志，切问近思。 langhai-00093 https://blog.tsio.top/
 KARPED1EM 也许不会有人来看，但我依旧会在这里记录我的一切，致那为数不多像你一样关注着我的人。 langhai-00094 https://leever.cn/
 半日闲 偷得浮生半日闲。 langhai-00095 https://lijian.net/
+静若安然 记录个人学习生活和成长历程。 langhai-00096 https://www.imets.cn/
 ```
 
