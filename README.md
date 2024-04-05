@@ -12,7 +12,7 @@
 2024年列表  
 
 ```
-极客蜂巢(GeekHive) 00001号 共创型综合技术博客，在这里你能学习Java、C#等软件开发与测试知识。https://jblog.oscode.top/  
+极客蜂巢(GeekHive) 00001号 共创型综合技术博客，在这里你能学习Java、C#等软件开发与测试知识。https://www.gkhive.com/  
 Java实战博客 00002号 一个Java原创、真实战、免费博客站点。 https://www.zanglikun.com/  
 小白学网络 00003号 小白的个人小博客，存活在21世纪的一个小破站，一个默默无闻的主页，一名在校大学生，一个开摆的极度爱好者，来我的网站一起学习吧。 https://ljnws.cn/  
 紗夕里 00004号 为了获得认同，个体愿意抛弃是非来换取那份让人倍感安全的归属感。 https://lolicon.team/   
@@ -106,7 +106,7 @@ AHXIN|我是AH新呀~ 我是ah新呀~ langhai-00085 https://ahxin.cn/
 狗头的作品 有一分热，发一分光。 langhai-00092 https://www.toolr.cn/
 光溯星河 博学笃志，切问近思。 langhai-00093 https://blog.tsio.top/
 KARPED1EM 也许不会有人来看，但我依旧会在这里记录我的一切，致那为数不多像你一样关注着我的人。 langhai-00094 https://leever.cn/
-半日闲 偷得浮生半日闲。 langhai-00095 https://lijian.net/
+半日闲 偷得浮生半日闲。 langhai-00095 https://xiaoa.me/
 静若安然 记录个人学习生活和成长历程。 langhai-00096 https://www.imets.cn/
 ```
 
