@@ -109,5 +109,6 @@ KARPED1EM 也许不会有人来看，但我依旧会在这里记录我的一切�
 半日闲 偷得浮生半日闲。 langhai-00095 https://xiaoa.me/
 静若安然 记录个人学习生活和成长历程。 langhai-00096 https://www.imets.cn/
 禹都一只猫 禹都一只猫博客，越努力，越幸运！ langhai-00097 https://iicats.com/
+染念BLOG Writingcode,painfulandhappy. langhai-00098 https://dyedd.cn/
 ```
 
