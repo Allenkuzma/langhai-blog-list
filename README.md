@@ -110,5 +110,6 @@ KARPED1EM 也许不会有人来看，但我依旧会在这里记录我的一切�
 静若安然 记录个人学习生活和成长历程。 langhai-00096 https://www.imets.cn/
 禹都一只猫 禹都一只猫博客，越努力，越幸运！ langhai-00097 https://iicats.com/
 染念BLOG Writingcode,painfulandhappy. langhai-00098 https://dyedd.cn/
+云博客(BLOGCLOUD) 云博客是一个成立于2024年的专业编程技术分享平台。我们致力于提供全面的编程学习资源，涵盖WEB前端开发、Java后端开发、Python等领域。通过我们丰富多彩的学习教程、源码分享和技术交流活动，您可以轻松掌握各种编程技能，并与同行共同成长。加入云博客，开启您的编程之旅，探索技术世界的无限可能性！ langhai-00099 https://www.blogcloud.cn/
 ```
 
