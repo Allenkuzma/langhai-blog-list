@@ -114,5 +114,6 @@ KARPED1EM 也许不会有人来看，但我依旧会在这里记录我的一切�
 万能青年 保護姑娘，貫徹落實。 langhai-00100 https://blog.shmilyi.cn/
 创想工坊 这是路何求的个人博客，分享思考，分享创造，分享生活，分享热泪盈眶。 langhai-00101 https://www.luheqiu.com/
 幽蓝记 生活随笔，交易记录，读书笔记！ langhai-00102 https://www.e9797.com/
+FIVETH 分享知识与生活。 langhai-00103 https://blog.fiveth.cc/
 ```
 
