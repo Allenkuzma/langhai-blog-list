@@ -116,5 +116,6 @@ KARPED1EM 也许不会有人来看，但我依旧会在这里记录我的一切�
 幽蓝记 生活随笔，交易记录，读书笔记！ langhai-00102 https://www.e9797.com/
 FIVETH 分享知识与生活。 langhai-00103 https://blog.fiveth.cc/
 琳晨BLOG 心犹在，力难续！——琳晨博客，LinChen langhai-00104 https://52lc.top/
+极简黑白 极简黑白博客网专注于技术分享、记录，包含个人博客网站、企业网站搭建服务、SEO优化关键词优化、百度百科词条创建、商标注册。极简黑白让简约变得不简单。 langhai-00105 https://www.zhaoxuze.com/
 ```
 
