@@ -57,9 +57,9 @@ Pnnk - 独り言つ 00037号 生活分享类型的博客。 https://www.spnnk.co
 冥狐的小站 00043号 如无必要，勿增实体。 https://www.darkfox.top/
 SerMs 00044号 代码如诗，细节成就极致，逻辑成就完美。 https://blog.serms.top/
 弋调草野 00045号 如野草般一岁一枯荣。 https://www.aliuying.com/
-柳丝资源网 00046号 博客、论坛、资源、技术、分享。 https://www.liusi.net/
+追梦人物的博客 一直走在追梦的路上。 langhai-00046 https://www.zmrenwu.com/
 栋DONG的个人站点 个人站点，一些刷题日记和JAVA小项目，你可以在这里找到一些LeetCode的经典题目和一些蓝桥杯的往届赛题。 langhai-00047 https://dongdong741236.cn/
-烧瑚烙饼乱刨笔记 一个2024应届中考生的闲(发)言(疯)碎(日)语(常)。 langhai-00048 https://（失效站点）blog（2024-02-26）laobinghu（长时间检测到贵站无法打开）top/
+罗磊的独立博客 我叫罗磊，来自中国深圳，程序员，前端工程师，视频节目 ZUOLUOTV 制作人，旅行摄影玩家和内容创作者，中文 Vlog 拍摄者，内容主题涉及科技、数码、互联网、摄影、旅行、生活方式等领域。 langhai-00048 https://luolei.org/
 兔兔博客🇨🇳 万事都要全力以赴，包括开心。 langhai-00049 https://blog.tutuxka.eu.org/
 以太工坊 以太工坊-分享计算机学习笔记、经验与有趣的小玩意。 langhai-00050 https://www.zair.top/
 超光速 我们的目标是星辰大海！超光速恐咖兵糖的小站。 langhai-00051 https://www.ftls.xyz/
