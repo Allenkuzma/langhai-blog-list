@@ -38,7 +38,7 @@ Chenli 00021号 记录生活，分享生活。 https://chenliss.cn/
 飞飞哥博客 00024号 飞飞哥博客致力于分享日常生活，情感吐槽，web前端技术，编程语言技术的学习研究，相互学习，每天进步一点点，日积月累哦！ http://blog.feifeige.top/
 李慕然的一天 00025号 衣带渐宽终不悔，为伊消得人憔悴。 https://limuran.top/
 百品博客 00026号 未来即脚下，山河皆邈邈。 https://baipin.pw/
-柳铃的个人笔记 00027号 一方寂静的角落里，有一间歪斜的小木屋，在那不尽的狂风中，木屋似乎随时都会消失。 https://www.rmoe.top/
+云风的BLOG 思绪来得快去得也快，偶尔会在这里停留。 langhai-00027 https://blog.codingnow.com/
 拾壹博客 00028号 一个专注技术分享的平台。 https://www.shiyit.com/
 陈陈菌博客 00029号 一个计算机业余爱好者，喜欢折腾些有的没的。 https://blog.glumi.cn/
 黑羽的个人博客 00030号 黑羽的个人博客，日常分享记录。 https://blog.thetbw.xyz/
