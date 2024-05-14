@@ -51,7 +51,7 @@ Muidar’s Site 00036号 努力学习，活在当下。 https://muidar.com/
 Pnnk - 独り言つ 00037号 生活分享类型的博客。 https://www.spnnk.com/
 裴先生笔记 00038号 探索，解决，提升，分享。 https://blog.peiluming.com
 洋芋博客 00039号 什么都分享，做自己想做的。 https://blog.51yangyu.cn/
-先生博客 00040号 知不可乎骤得，托遗响于悲风。 https://mister.cn/
+狼和凤凰 一个程序员。热爱分享、创建与开源，努力去改变自己，改变世界。 langhai-00040 https://www.phodal.com/
 一恒的网志 00041号 与你分享我十多年来所见、所闻、所思、所做、所感、所悟。 https://www.xze.cc/
 青灯暮雨 00042号 再渺小的星光，也有属于它的光芒。 https://www.blatr.cn/
 冥狐的小站 00043号 如无必要，勿增实体。 https://www.darkfox.top/
