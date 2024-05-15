@@ -80,7 +80,7 @@ Q2019的小站 欢迎访问我的个人网站，我会在这里记录我日常�
 海鸥之声 天清江月白，心静海鸥知。 langhai-00066 https://2001k.com/
 SHIMMER的博客 shimmer的个人博客站，旨在记录生活，分享知识。 langhai-00067 https://wp-boke.work/
 我鬼知道の博客 你好啊，这里是，我鬼知道の博客，也是一个小白の技术性博客，主要研究Windows，WordPress和其它好玩的东西，欢迎来玩~ langhai-00068 https://www.wgzdy.top/
-那云博客 那云博客致力于各种黑群晖教程，包含固件下载、插件安装、编译分享等教程，分享品牌路由器设置测评、磁力资源推荐、谷歌学术搜索、服务器科学脚本安装的解决方案，web建站、国内外服务器推荐、网站源码下载分享等精品技术教程。 langhai-00069 https://www.thatcloud.cn/
+卢昌海个人主页 欢迎访问卢昌海个人主页。 langhai-00069 https://www.changhai.org/
 江湖小白 一个咸鱼的朋友圈。 langhai-00070 https://blog.lshl.bid/
 〇°  今天快乐。 langhai-00071 https://lingdu.love/
 笨猪 云服务器的搭建与代码经验分享的个人博客。 langhai-00072 https://www.benzhu.xyz/
@@ -96,11 +96,11 @@ DONGDONG’S BLOG 科研、学习和生活中遇到的问题，解决之后，�
 EVAN'S SPACE Keep it real。 langhai-00082 https://www.evan.xin/
 梁某人 梁某人的IT技术博客是一个专注于编程技巧与软件推荐的网站，提供最新的IT科技资讯、编程教程和热门软件推荐，帮助读者掌握最新的IT趋势和技术应用。 langhai-00083 https://liang123.top/
 QXDN的乐园 蓬生麻中，不扶自直。 langhai-00084 https://qianxu.run/
-AHXIN|我是AH新呀~ 我是ah新呀~ langhai-00085 https://ahxin.cn/
-君莫愁 莫愁前路无知己，天下谁人不识君。 langhai-00086 https://blog.shimail.cn/
+范叶亮 | LEO VAN 这是范叶亮的个人主页。 langhai-00085 https://leovan.me/
+廖雪峰的官方网站 研究互联网产品和技术，提供原创中文精品教程。 langhai-00086 https://www.liaoxuefeng.com/
 晨狐戏语 晨狐戏语又称晨狐博客（LiuZhuai.COM）,平行宇宙的一个宁静角落-晨狐的个人鼠窝最早搭建于2020年02月02日，仅用于分享资源，记录生活点滴以及发布一些言论。晨狐博客仅可以保存每篇文章都很有阅读价值。 langhai-00087 https://blog.liuzhuai.com/
 小C的时光归档 Bydesign,theInternetcoreisstupid,andtheedgeissmart. langhai-00088 https://a0v0a.cn/
-阿南笔记 原创日记以及网络软件分享，爱生活，爱软件，爱代码，爱学习！ langhai-00089 https://aednn.com/
+ONEV'S DEN 上善若水，人淡如菊。这里是王巍 (onevcat) 的博客，用来记录一些技术和想法，主要专注于 Swift 和 iOS 开发。 langhai-00089 https://onevcat.com/
 丫丫博客 一个技术分享与教程交流博客论坛。 langhai-00090 https://blog.yaqwq.top/
 胡家荣 这里是胡家荣的个人网站。 langhai-00091 https://hujiarong.site/
 狗头的作品 有一分热，发一分光。 langhai-00092 https://www.toolr.cn/
@@ -115,7 +115,7 @@ KARPED1EM 也许不会有人来看，但我依旧会在这里记录我的一切�
 创想工坊 这是路何求的个人博客，分享思考，分享创造，分享生活，分享热泪盈眶。 langhai-00101 https://www.luheqiu.com/
 幽蓝记 生活随笔，交易记录，读书笔记！ langhai-00102 https://www.e9797.com/
 FIVETH 分享知识与生活。 langhai-00103 https://blog.fiveth.cc/
-琳晨BLOG 心犹在，力难续！——琳晨博客，LinChen langhai-00104 https://52lc.top/
+荒原之梦 荒原之梦考研数学网成立于2017年，是一个专注于考研数学的原创学习资源平台，科目涵盖高等数学、线性代数和概率统计，内容包含知识点和题目解析、公式学习和思维导图。荒原之梦网以内容详尽，条理清晰，通俗易懂为鲜明特色，深受广大学子好评。 langhai-00104 https://zhaokaifeng.com/
 极简黑白 极简黑白博客网专注于技术分享、记录，包含个人博客网站、企业网站搭建服务、SEO优化关键词优化、百度百科词条创建、商标注册。极简黑白让简约变得不简单。 langhai-00105 https://www.zhaoxuze.com/
 信念完美网 新年完美网自由的博客我记得一年前的今天，我却记不起二年前的今天，三年，四年等的今天；十年后的今天会怎么样……十年相约。 langhai-00106 https://www.xnwmw.com/
 ```
