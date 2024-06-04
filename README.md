@@ -123,5 +123,6 @@ LUVIICHANN的小天地 任何一种伟大的思想都源于一个微不足道的
 辞琼 突破了瓶颈，发现还有瓶盖qwq。 langhai-00109 https://blog.wsq127.top/
 陈浩的个人主页 陈浩的个人主页。 langhai-00110 https://xn--v0wv58f.xn--ses554g/
 AH新的生活小札 日常琐记，生活共赏。 langhai-00111 https://blog.ahxin.cn/
+纸鹿摸鱼处 纸鹿本鹿的个人博客，分享技术与生活。折腾不止，摸鱼生活——摸门🙏🏻 langhai-00112 https://blog.zhilu.cyou/
 ```
 
