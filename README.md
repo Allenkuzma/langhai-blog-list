@@ -127,5 +127,6 @@ AH新的生活小札 日常琐记，生活共赏。 langhai-00111 https://blog.a
 乐平博客 优质教育领域创作者。 langhai-00113 https://www.leping.cc/
 咸鱼小窝 一个小透明的小透明博客。 langhai-00114 https://qqquq.com/
 我的学习笔记 心有大海，奈何被世俗束缚。 langhai-00115 https://ooolo.net/
+CODE掘金 欢迎来到【Code掘金】，我是小学专职校医，分享我的工作点滴、论文写作技巧及各种副业尝试。 langhai-00116 https://www.sodofast.cn/
 ```
 
