@@ -128,5 +128,6 @@ AH新的生活小札 日常琐记，生活共赏。 langhai-00111 https://blog.a
 咸鱼小窝 一个小透明的小透明博客。 langhai-00114 https://qqquq.com/
 我的学习笔记 心有大海，奈何被世俗束缚。 langhai-00115 https://ooolo.net/
 CODE掘金 欢迎来到【Code掘金】，我是小学专职校医，分享我的工作点滴、论文写作技巧及各种副业尝试。 langhai-00116 https://www.sodofast.cn/
+洛丽糖 洛丽糖（luolt.cn），致力于互联网资源的共享，分享各类技术教程，typecho主题模板，zblog主题模板，网站源码等各种资源。 langhai-00117 https://luolt.cn/
 ```
 
