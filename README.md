@@ -48,7 +48,7 @@ Chenli 00021号 记录生活，分享生活。 https://chenliss.cn/
 小野博客 00034号 小野（Hirono）博客的个人网站，主要讲述关于小野的一些陈芝麻烂谷子事。 https://lb5.net/
 厄尔科斯 00035号 架空世界-厄尔科斯。 https://sikan.moe/
 Muidar’s Site 00036号 努力学习，活在当下。 https://muidar.com/
-Pnnk - 独り言つ 00037号 生活分享类型的博客。 https://www.spnnk.com/
+Pnnk - 独り言つ 00037号 生活分享类型的博客。 https://pnnk.ee/
 裴先生笔记 00038号 探索，解决，提升，分享。 https://blog.peiluming.com
 洋芋博客 00039号 什么都分享，做自己想做的。 https://blog.51yangyu.cn/
 狼和凤凰 一个程序员。热爱分享、创建与开源，努力去改变自己，改变世界。 langhai-00040 https://www.phodal.com/
