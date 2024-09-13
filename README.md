@@ -131,5 +131,6 @@ CODE掘金 欢迎来到【Code掘金】，我是小学专职校医，分享我�
 洛丽糖 洛丽糖（luolt.cn），致力于互联网资源的共享，分享各类技术教程，typecho主题模板，zblog主题模板，网站源码等各种资源。 langhai-00117 https://luolt.cn/
 离人の网络自留地 越懂得珍惜，越害怕失去。 langhai-00118 https://longlove.org/
 NianSir's BLOG 加年的小站。 langhai-00119 https://blog.niansir.com/
+Leo2011 许许多多的平凡加在一起，就成了不平凡。 langhai-00120 https://leo2011.eu.org/
 ```
 
