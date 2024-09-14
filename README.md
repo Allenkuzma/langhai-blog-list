@@ -120,7 +120,7 @@ FIVETH 分享知识与生活。 langhai-00103 https://blog.fiveth.cc/
 信念完美网 新年完美网自由的博客我记得一年前的今天，我却记不起二年前的今天，三年，四年等的今天；十年后的今天会怎么样……十年相约。 langhai-00106 https://www.xnwmw.com/
 DAIDAIFU'S BLOG I'M代代付，这是我的个人博客。 langhai-00107 https://www.ddf.im/
 LUVIICHANN的小天地 任何一种伟大的思想都源于一个微不足道的开始。 langhai-00108 https://luviichann.top/
-辞琼 突破了瓶颈，发现还有瓶盖qwq。 langhai-00109 https://blog.wsq127.top/
+品味苏州 君到姑苏见，人家尽枕河。 langhai-00109 https://pwsz.com/
 陈浩的个人主页 陈浩的个人主页。 langhai-00110 https://xn--v0wv58f.xn--ses554g/
 AH新的生活小札 日常琐记，生活共赏。 langhai-00111 https://blog.ahxin.cn/
 纸鹿摸鱼处 纸鹿本鹿的个人博客，分享技术与生活。折腾不止，摸鱼生活——摸门🙏🏻 langhai-00112 https://blog.zhilu.cyou/
