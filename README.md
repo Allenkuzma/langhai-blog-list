@@ -124,7 +124,7 @@ LUVIICHANN的小天地 任何一种伟大的思想都源于一个微不足道的
 陈浩的个人主页 陈浩的个人主页。 langhai-00110 https://xn--v0wv58f.xn--ses554g/
 AH新的生活小札 日常琐记，生活共赏。 langhai-00111 https://blog.ahxin.cn/
 纸鹿摸鱼处 纸鹿本鹿的个人博客，分享技术与生活。折腾不止，摸鱼生活——摸门🙏🏻 langhai-00112 https://blog.zhilu.cyou/
-乐平博客 优质教育领域创作者。 langhai-00113 https://www.leping.cc/
+阿巴阿巴 当代脆皮00后。 langhai-00113 https://www.abab.net/
 咸鱼小窝 一个小透明的小透明博客。 langhai-00114 https://qqquq.com/
 我的学习笔记 心有大海，奈何被世俗束缚。 langhai-00115 https://ooolo.net/
 CODE掘金 欢迎来到【Code掘金】，我是小学专职校医，分享我的工作点滴、论文写作技巧及各种副业尝试。 langhai-00116 https://www.sodofast.cn/
