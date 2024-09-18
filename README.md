@@ -19,7 +19,7 @@ Java实战博客 00002号 一个Java原创、真实战、免费博客站点。 h
 六六六 00005号 六六六生活博客站点。  https://666.cam/  
 夏末笔记 00006号 若再许我少年时，一两黄金一两风，奈何十万八千梦，不见人间一两风-欢迎光临夏末笔记～  https://www.xiamo.cc/  
 阮一峰的个人网站 阮一峰的个人网站，这里记录每周值得分享的科技内容，周五发布。 langhai-00007 https://www.ruanyifeng.com/
-云晓晨CatchYun 00008号 未来路远 • 勿忘初心。  https://blog.catchyun.com/  
+夜空星光 月落星沉，旭日东升。 langhai-00008 https://xingstar.top/  
 运维开发绿皮书 00009号 运维开发绿皮书技术博客站点。  https://www.geekery.cn/  
 没有楼的楼长 00010号 事已至此，木已成舟。https://blog.sdnie.fun/
 一个薄荷 00011号 懒癌晚期95后的网络折腾和生活记录。 https://abohe.cn/
