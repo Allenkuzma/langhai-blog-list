@@ -77,7 +77,7 @@ TAOSU`HOME FATA。 langhai-00056 https://blog.yblue.top/
 DENGQN BLOG 一个普通程序员。 langhai-00063 https://dengqn.com/
 兰德胡涂's Blog 寄蜉蝣于天地，渺沧海之一栗。 langhai-00064 https://www.landhutu.top/
 Q2019的小站 欢迎访问我的个人网站，我会在这里记录我日常生活中碰到的技术问题并分享。 langhai-00065 https://www.q2019.com/
-海鸥之声 天清江月白，心静海鸥知。 langhai-00066 https://2001k.com/
+云云星羽 陌让流年盼繁华，颜容依旧似繁花。 langhai-00066 https://yyxy.top/
 SHIMMER的博客 shimmer的个人博客站，旨在记录生活，分享知识。 langhai-00067 https://wp-boke.work/
 我鬼知道の博客 你好啊，这里是，我鬼知道の博客，也是一个小白の技术性博客，主要研究Windows，WordPress和其它好玩的东西，欢迎来玩~ langhai-00068 https://www.wgzdy.top/
 卢昌海个人主页 欢迎访问卢昌海个人主页。 langhai-00069 https://www.changhai.org/
