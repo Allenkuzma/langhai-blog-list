@@ -65,7 +65,7 @@ SerMs 00044号 代码如诗，细节成就极致，逻辑成就完美。 https:/
 超光速 我们的目标是星辰大海！超光速恐咖兵糖的小站。 langhai-00051 https://www.ftls.xyz/
 KEVIN'S BLOG perseverance。 langhai-00052 https://blog.kevinly.com.cn/
 卡库伊2.0 IT资源和技术分享博客。 langhai-00053 https://blog.kkii.org/
-朝闻道 所谓超人，就是按客观规律办事的人。 langhai-00054 https://spider666.icu/
+姓王者的博客 记录学习生活的琐事，或者技术文章:)。 langhai-00054 https://xingwangzhe.fun/
 WCOWIN'S WEB 循此苦旅，以达星辰。 langhai-00055 https://wcowin.work/
 TAOSU`HOME FATA。 langhai-00056 https://blog.yblue.top/
 圆周率的博客 一名中学生的个人博客。PC，web and every interesting things。 langhai-00057 https://www.yuanzj.top/
