@@ -111,7 +111,7 @@ KARPED1EM 也许不会有人来看，但我依旧会在这里记录我的一切�
 禹都一只猫 禹都一只猫博客，越努力，越幸运！ langhai-00097 https://iicats.com/
 染念BLOG Writingcode,painfulandhappy. langhai-00098 https://dyedd.cn/
 云博客(BLOGCLOUD) 云博客是一个成立于2024年的专业编程技术分享平台。我们致力于提供全面的编程学习资源，涵盖WEB前端开发、Java后端开发、Python等领域。通过我们丰富多彩的学习教程、源码分享和技术交流活动，您可以轻松掌握各种编程技能，并与同行共同成长。加入云博客，开启您的编程之旅，探索技术世界的无限可能性！ langhai-00099 https://www.blogcloud.cn/
-万能青年 保護姑娘，貫徹落實。 langhai-00100 https://blog.shmilyi.cn/
+Mareep’s Blog Highway to the Danger Zone! langhai-00100 https://www.mareep.cn/
 创想工坊 这是路何求的个人博客，分享思考，分享创造，分享生活，分享热泪盈眶。 langhai-00101 https://www.luheqiu.com/
 浩瀚星河 代码,日常,人生。 langhai-00102 https://haohanxinghe.com/
 FIVETH 分享知识与生活。 langhai-00103 https://blog.fiveth.cc/
