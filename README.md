@@ -15,7 +15,7 @@
 极客蜂巢(GeekHive) 00001号 共创型综合技术博客，在这里你能学习Java、C#等软件开发与测试知识。https://www.gkhive.com/  
 Java实战博客 00002号 一个Java原创、真实战、免费博客站点。 https://www.zanglikun.com/  
 小白学网络 00003号 小白的个人小博客，存活在21世纪的一个小破站，一个默默无闻的主页，一名在校大学生，一个开摆的极度爱好者，来我的网站一起学习吧。 https://ljnws.cn/  
-紗夕里 00004号 为了获得认同，个体愿意抛弃是非来换取那份让人倍感安全的归属感。 https://lolicon.team/   
+紗夕里 00004号 为了获得认同，个体愿意抛弃是非来换取那份让人倍感安全的归属感。 https://blog.ovofish.com/   
 笔记堡 笔记堡是一个实用的学习分享平台，旨在为广大用户提供更优质的学习资源和信息。 langhai-00005  https://www.nmssb.cn/  
 夏末笔记 00006号 若再许我少年时，一两黄金一两风，奈何十万八千梦，不见人间一两风-欢迎光临夏末笔记～  https://www.xiamo.cc/  
 阮一峰的个人网站 阮一峰的个人网站，这里记录每周值得分享的科技内容，周五发布。 langhai-00007 https://www.ruanyifeng.com/
@@ -81,7 +81,7 @@ Q2019的小站 欢迎访问我的个人网站，我会在这里记录我日常�
 SHIMMER的博客 shimmer的个人博客站，旨在记录生活，分享知识。 langhai-00067 https://wp-boke.work/
 我鬼知道の博客 你好啊，这里是，我鬼知道の博客，也是一个小白の技术性博客，主要研究Windows，WordPress和其它好玩的东西，欢迎来玩~ langhai-00068 https://www.wgzdy.top/
 卢昌海个人主页 欢迎访问卢昌海个人主页。 langhai-00069 https://www.changhai.org/
-江湖小白 一个咸鱼的朋友圈。 langhai-00070 https://blog.lshl.bid/
+Glimmer duckxu's internet home langhai-00070 https://i.duckxu.com/
 〇°  今天快乐。 langhai-00071 https://lingdu.love/
 笨猪 云服务器的搭建与代码经验分享的个人博客。 langhai-00072 https://www.benzhu.xyz/
 风呼呼-无病呻吟的酱油瓶！ 个人古诗词作品博客，望高才能不吝赐教！ langhai-00073 https://whooc.com/
@@ -90,7 +90,7 @@ LEMONT的博客 lemont个人小站，一个写博客的地方，记录工作、�
 星辰博客-HOPEFORSTAR 星辰博客——hopeforstar。 langhai-00076 https://blog.starchen.top/
 JRINのBLOG 世间所有的相遇都是久别重逢~ langhai-00077 https://jrdit.github.io/
 MORAEX博客 欢迎来到MoraEX博客，这里是一个新媒体行业社畜用来在互联网上留下痕迹的网站，在这里你能够看到我的日常生活；学习笔记；到处瞎拍的照片以及一些玩机教程等东西。 langhai-00078 https://www.moraex.com/
-懋和道人 李懋和，俗名李栋梁。内地著名上清茅山宗道士，书法、国画爱好者。 langhai-00079 https://www.dao.js.cn/
+南蛮子懋和 李懋和，俗名李栋梁。书法、国画爱好者，互联网安全与前端建设者。 langhai-00079 https://www.dao.js.cn/
 OLDMING的杂货铺 记录生活碎碎念。 langhai-00080 https://www.oldming.cn/
 DONGDONG’S BLOG 科研、学习和生活中遇到的问题，解决之后，汇总成文档。 langhai-00081 https://ddw2019.com/
 EVAN'S SPACE Keep it real。 langhai-00082 https://www.evan.xin/
@@ -102,7 +102,7 @@ QXDN的乐园 蓬生麻中，不扶自直。 langhai-00084 https://qianxu.run/
 小C的时光归档 Bydesign,theInternetcoreisstupid,andtheedgeissmart. langhai-00088 https://a0v0a.cn/
 ONEV'S DEN 上善若水，人淡如菊。这里是王巍 (onevcat) 的博客，用来记录一些技术和想法，主要专注于 Swift 和 iOS 开发。 langhai-00089 https://onevcat.com/
 丫丫博客 一个技术分享与教程交流博客论坛。 langhai-00090 https://blog.yaqwq.top/
-胡家荣 这里是胡家荣的个人网站。 langhai-00091 https://hujiarong.site/
+不明のNetWork OS 五年代码，三年 BUG. langhai-00091 https://networkos.club
 狗头的作品 有一分热，发一分光。 langhai-00092 https://www.toolr.cn/
 光溯星河 博学笃志，切问近思。 langhai-00093 https://blog.tsio.top/
 KARPED1EM 也许不会有人来看，但我依旧会在这里记录我的一切，致那为数不多像你一样关注着我的人。 langhai-00094 https://leever.cn/
