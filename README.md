@@ -85,7 +85,7 @@ Glimmer duckxu's internet home langhai-00070 https://i.duckxu.com/
 〇°  今天快乐。 langhai-00071 https://lingdu.love/
 笨猪 云服务器的搭建与代码经验分享的个人博客。 langhai-00072 https://www.benzhu.xyz/
 风呼呼-无病呻吟的酱油瓶！ 个人古诗词作品博客，望高才能不吝赐教！ langhai-00073 https://whooc.com/
-YENX小院 Yenx，一个无厘头大学生在世界狂奔~ langhai-00074 https://yenx.top/
+云端的解构者 以我观物，故物皆著我之色彩。 langhai-00074 https://www.zheep.top
 LEMONT的博客 lemont个人小站，一个写博客的地方，记录工作、生活中的点点滴滴，不定期更新分享网站模版、python学习教程、学习资料、web开发教程及IT技术等资源。随意自取，欢迎指点。 langhai-00075 http://www.bylemon.cn/
 星辰博客-HOPEFORSTAR 星辰博客——hopeforstar。 langhai-00076 https://blog.starchen.top/
 JRINのBLOG 世间所有的相遇都是久别重逢~ langhai-00077 https://jrdit.github.io/
@@ -112,7 +112,7 @@ KARPED1EM 也许不会有人来看，但我依旧会在这里记录我的一切�
 染念BLOG Writingcode,painfulandhappy. langhai-00098 https://dyedd.cn/
 云博客(BLOGCLOUD) 云博客是一个成立于2024年的专业编程技术分享平台。我们致力于提供全面的编程学习资源，涵盖WEB前端开发、Java后端开发、Python等领域。通过我们丰富多彩的学习教程、源码分享和技术交流活动，您可以轻松掌握各种编程技能，并与同行共同成长。加入云博客，开启您的编程之旅，探索技术世界的无限可能性！ langhai-00099 https://www.blogcloud.cn/
 Mareep’s Blog Highway to the Danger Zone! langhai-00100 https://www.mareep.cn/
-创想工坊 这是路何求的个人博客，分享思考，分享创造，分享生活，分享热泪盈眶。 langhai-00101 https://www.luheqiu.com/
+堆新 堆新堆新,引力向新！——堆新（DUINEW） langhai-00101 https://duinew.com/
 浩瀚星河 代码,日常,人生。 langhai-00102 https://haohanxinghe.com/
 FIVETH 分享知识与生活。 langhai-00103 https://blog.fiveth.cc/
 荒原之梦 荒原之梦考研数学网成立于2017年，是一个专注于考研数学的原创学习资源平台，科目涵盖高等数学、线性代数和概率统计，内容包含知识点和题目解析、公式学习和思维导图。荒原之梦网以内容详尽，条理清晰，通俗易懂为鲜明特色，深受广大学子好评。 langhai-00104 https://zhaokaifeng.com/
@@ -120,11 +120,11 @@ FIVETH 分享知识与生活。 langhai-00103 https://blog.fiveth.cc/
 信念完美网 新年完美网自由的博客我记得一年前的今天，我却记不起二年前的今天，三年，四年等的今天；十年后的今天会怎么样……十年相约。 langhai-00106 https://www.xnwmw.com/
 DAIDAIFU'S BLOG I'M代代付，这是我的个人博客。 langhai-00107 https://www.ddf.im/
 LUVIICHANN的小天地 任何一种伟大的思想都源于一个微不足道的开始。 langhai-00108 https://luviichann.top/
-品味苏州 君到姑苏见，人家尽枕河。 langhai-00109 https://pwsz.com/
+LineXic书屋 难离难舍，想抱紧些。 langhai-00109 https://www.linexic.top
 陈浩的个人主页 陈浩的个人主页。 langhai-00110 https://xn--v0wv58f.xn--ses554g/
 AH新的生活小札 日常琐记，生活共赏。 langhai-00111 https://blog.ahxin.cn/
 纸鹿摸鱼处 纸鹿本鹿的个人博客，分享技术与生活。折腾不止，摸鱼生活——摸门🙏🏻 langhai-00112 https://blog.zhilu.cyou/
-阿巴阿巴 当代脆皮00后。 langhai-00113 https://www.abab.net/
+阿涛の小破站 Docker技术分享。 langhai-00113 https://emohe.cn/
 咸鱼小窝 一个小透明的小透明博客。 langhai-00114 https://qqquq.com/
 我的学习笔记 心有大海，奈何被世俗束缚。 langhai-00115 https://ooolo.net/
 CODE掘金 欢迎来到【Code掘金】，我是小学专职校医，分享我的工作点滴、论文写作技巧及各种副业尝试。 langhai-00116 https://www.sodofast.cn/
