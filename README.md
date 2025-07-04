@@ -17,8 +17,8 @@ Java实战博客 00002号 一个Java原创、真实战、免费博客站点。 h
 小白学网络 00003号 小白的个人小博客，存活在21世纪的一个小破站，一个默默无闻的主页，一名在校大学生，一个开摆的极度爱好者，来我的网站一起学习吧。 https://ljnws.cn/  
 紗夕里 00004号 为了获得认同，个体愿意抛弃是非来换取那份让人倍感安全的归属感。 https://blog.ovofish.com/   
 笔记堡 笔记堡是一个实用的学习分享平台，旨在为广大用户提供更优质的学习资源和信息。 langhai-00005  https://www.nmssb.cn/  
-夏末笔记 00006号 若再许我少年时，一两黄金一两风，奈何十万八千梦，不见人间一两风-欢迎光临夏末笔记～  https://www.xiamo.cc/  
-阮一峰的个人网站 阮一峰的个人网站，这里记录每周值得分享的科技内容，周五发布。 langhai-00007 https://www.ruanyifeng.com/
+听松客 这里是松涛漫过耳畔的角落。langhai-00006 https://jiu.ge/
+品味苏州 吴侬软语、小桥流水，最美在苏州。 langhai-00007 https://pwsz.com/
 夜空星光 月落星沉，旭日东升。 langhai-00008 https://xingstar.top/  
 运维开发绿皮书 00009号 运维开发绿皮书技术博客站点。  https://www.geekery.cn/  
 没有楼的楼长 00010号 事已至此，木已成舟。https://blog.sdnie.fun/
@@ -38,7 +38,7 @@ Chenli 00021号 记录生活，分享生活。 https://chenliss.cn/
 飞飞哥博客 00024号 飞飞哥博客致力于分享日常生活，情感吐槽，web前端技术，编程语言技术的学习研究，相互学习，每天进步一点点，日积月累哦！ http://blog.feifeige.top/
 李慕然的一天 00025号 衣带渐宽终不悔，为伊消得人憔悴。 https://limuran.top/
 百品博客 00026号 未来即脚下，山河皆邈邈。 https://baipin.pw/
-云风的BLOG 思绪来得快去得也快，偶尔会在这里停留。 langhai-00027 https://blog.codingnow.com/
+创想工坊 分享思考，分享创造，分享生活，分享热泪盈眶。 langhai-00027 https://www.luheqiu.com/
 拾壹博客 00028号 一个专注技术分享的平台。 https://www.shiyit.com/
 陈陈菌博客 00029号 一个计算机业余爱好者，喜欢折腾些有的没的。 https://blog.glumi.cn/
 黑羽的个人博客 00030号 黑羽的个人博客，日常分享记录。 https://blog.thetbw.xyz/
@@ -51,7 +51,7 @@ Muidar’s Site 00036号 努力学习，活在当下。 https://muidar.com/
 Pnnk - 独り言つ 00037号 生活分享类型的博客。 https://pnnk.ee/
 裴先生笔记 00038号 探索，解决，提升，分享。 https://blog.peiluming.com
 洋芋博客 00039号 什么都分享，做自己想做的。 https://blog.51yangyu.cn/
-狼和凤凰 一个程序员。热爱分享、创建与开源，努力去改变自己，改变世界。 langhai-00040 https://www.phodal.com/
+极简黑白 极简黑白让简约变得不简单。 langhai-00040 https://www.zhaoxuze.com/
 一恒的网志 00041号 与你分享我十多年来所见、所闻、所思、所做、所感、所悟。 https://www.xze.cc/
 青灯暮雨 00042号 再渺小的星光，也有属于它的光芒。 https://www.blatr.cn/
 冥狐的小站 00043号 如无必要，勿增实体。 https://www.darkfox.top/
@@ -72,7 +72,7 @@ TAOSU`HOME FATA。 langhai-00056 https://blog.yblue.top/
 鼠鼠在碎觉 我是不慎落入世界的一滴水墨。 langhai-00058 https://www.sszsj.cc/
 小不的窝-分かりません 小不的窝是一个记录生活，分享知识的个人博客。主要记录生活经历，自己写的程序原理,茫茫人海中留下些许足迹。 langhai-00059 https://blog.donotknow.top/
 MIKU01二进制世界 开启创造力。 langhai-00060 https://miku01.cc/
-点墨阁 寄情山水的arch玩客。 langhai-00061 https://blog.m-l.cc/
+绾秋小站 用文字记录生活。 langhai-00061 https://www.gx.gx.cn/
 卡法氘我在 堪破有为法，笑迦南之花。 langhai-00062 https://kaffa.im/
 DENGQN BLOG 一个普通程序员。 langhai-00063 https://dengqn.com/
 兰德胡涂's Blog 寄蜉蝣于天地，渺沧海之一栗。 langhai-00064 https://www.landhutu.top/
@@ -94,7 +94,7 @@ MORAEX博客 欢迎来到MoraEX博客，这里是一个新媒体行业社畜用�
 OLDMING的杂货铺 记录生活碎碎念。 langhai-00080 https://www.oldming.cn/
 DONGDONG’S BLOG 科研、学习和生活中遇到的问题，解决之后，汇总成文档。 langhai-00081 https://ddw2019.com/
 EVAN'S SPACE Keep it real。 langhai-00082 https://www.evan.xin/
-梁某人 梁某人的IT技术博客是一个专注于编程技巧与软件推荐的网站，提供最新的IT科技资讯、编程教程和热门软件推荐，帮助读者掌握最新的IT趋势和技术应用。 langhai-00083 https://liang123.top/
+开心宝 看站长这一生是如何走向深渊的。 langhai-00083 https://joyb.cc/
 QXDN的乐园 蓬生麻中，不扶自直。 langhai-00084 https://qianxu.run/
 范叶亮 | LEO VAN 这是范叶亮的个人主页。 langhai-00085 https://leovan.me/
 廖雪峰的官方网站 研究互联网产品和技术，提供原创中文精品教程。 langhai-00086 https://www.liaoxuefeng.com/
