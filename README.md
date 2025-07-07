@@ -27,7 +27,7 @@ Java实战博客 00002号 一个Java原创、真实战、免费博客站点。 h
 Hary的博客 00013号 这是我在网络上的一个在线记事本，记录一些个人生活片段，以及一些自己在建站或者使用工具的一些经验分享。 https://hary.cc/
 目的地-Destination 00014号 前程似锦、未来可期、寻得良人、共赴白头，祝你也祝我。 https://blog.chrison.cn/
 丝诺博了个客 00015号 个人博客记二次三次日常。 https://zhangxue.name/
-辉辉狐的笔记 00016号 辉辉狐的个人笔记空间。 https://note.ifoxhui.com/
+ztr的小窝 记录 ztr 的学习与生活。langhai-00016 https://ztrztr.top/
 时雨の一方净土🌈 00017号 一个灵魂的栖息地🦖🦖🦖。 https://noesis.love/
 Moraxyc’s Rhapsody 00018号 永远热爱！ https://moraxyc.com
 倾城于你 00019号 一个热爱分享的Typecho小站。 https://qninq.cn/
@@ -59,7 +59,7 @@ SerMs 00044号 代码如诗，细节成就极致，逻辑成就完美。 https:/
 弋调草野 00045号 如野草般一岁一枯荣。 https://www.aliuying.com/
 MuXiaoChen 柴米油盐酱醋茶，般般都在别人家。 langhai-00046 https://miraii.cn/
 栋DONG的个人站点 个人站点，一些刷题日记和JAVA小项目，你可以在这里找到一些LeetCode的经典题目和一些蓝桥杯的往届赛题。 langhai-00047 https://dongdong741236.cn/
-罗磊的独立博客 我叫罗磊，来自中国深圳，程序员，前端工程师，视频节目 ZUOLUOTV 制作人，旅行摄影玩家和内容创作者，中文 Vlog 拍摄者，内容主题涉及科技、数码、互联网、摄影、旅行、生活方式等领域。 langhai-00048 https://luolei.org/
+MRZHU的小站 向着计算物理出发吧！ langhai-00048 https://www.sifangbazhu.tech/
 兔兔博客🇨🇳 万事都要全力以赴，包括开心。 langhai-00049 https://blog.tutuxka.eu.org/
 以太工坊 以太工坊-分享计算机学习笔记、经验与有趣的小玩意。 langhai-00050 https://www.zair.top/
 超光速 我们的目标是星辰大海！超光速恐咖兵糖的小站。 langhai-00051 https://www.ftls.xyz/
