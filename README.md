@@ -80,7 +80,7 @@ Q2019的小站 欢迎访问我的个人网站，我会在这里记录我日常�
 云云星羽 陌让流年盼繁华，颜容依旧似繁花。 langhai-00066 https://yyxy.top/
 SHIMMER的博客 shimmer的个人博客站，旨在记录生活，分享知识。 langhai-00067 https://wp-boke.work/
 我鬼知道の博客 你好啊，这里是，我鬼知道の博客，也是一个小白の技术性博客，主要研究Windows，WordPress和其它好玩的东西，欢迎来玩~ langhai-00068 https://www.wgzdy.top/
-卢昌海个人主页 欢迎访问卢昌海个人主页。 langhai-00069 https://www.changhai.org/
+七云博客 公益知识库，IDC建站，ESC收录，收集信息-帮助学习者快速成长！ langhai-00069 https://www.cnwnc.cn/
 Glimmer duckxu's internet home langhai-00070 https://i.duckxu.com/
 〇°  今天快乐。 langhai-00071 https://lingdu.love/
 笨猪 云服务器的搭建与代码经验分享的个人博客。 langhai-00072 https://www.benzhu.xyz/
