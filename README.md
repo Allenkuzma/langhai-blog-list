@@ -115,7 +115,7 @@ Mareep’s Blog Highway to the Danger Zone! langhai-00100 https://www.mareep.cn/
 堆新 堆新堆新,引力向新！——堆新（DUINEW） langhai-00101 https://duinew.com/
 浩瀚星河 代码,日常,人生。 langhai-00102 https://haohanxinghe.com/
 FIVETH 分享知识与生活。 langhai-00103 https://blog.fiveth.cc/
-荒原之梦 荒原之梦考研数学网成立于2017年，是一个专注于考研数学的原创学习资源平台，科目涵盖高等数学、线性代数和概率统计，内容包含知识点和题目解析、公式学习和思维导图。荒原之梦网以内容详尽，条理清晰，通俗易懂为鲜明特色，深受广大学子好评。 langhai-00104 https://zhaokaifeng.com/
+八对星星 极目星视穹苍无界•足履行者大地有疆。 langhai-00104 https://8dui.com/
 萌小白 一款博主自己编写的微博客源码。 langhai-00105 https://5201317.xyz/
 信念完美网 新年完美网自由的博客我记得一年前的今天，我却记不起二年前的今天，三年，四年等的今天；十年后的今天会怎么样……十年相约。 langhai-00106 https://www.xnwmw.com/
 DAIDAIFU'S BLOG I'M代代付，这是我的个人博客。 langhai-00107 https://www.ddf.im/
