@@ -100,7 +100,7 @@ QXDN的乐园 蓬生麻中，不扶自直。 langhai-00084 https://qianxu.run/
 廖雪峰的官方网站 研究互联网产品和技术，提供原创中文精品教程。 langhai-00086 https://www.liaoxuefeng.com/
 晨狐戏语 晨狐戏语又称晨狐博客（LiuZhuai.COM）,平行宇宙的一个宁静角落-晨狐的个人鼠窝最早搭建于2020年02月02日，仅用于分享资源，记录生活点滴以及发布一些言论。晨狐博客仅可以保存每篇文章都很有阅读价值。 langhai-00087 https://blog.liuzhuai.com/
 小C的时光归档 Bydesign,theInternetcoreisstupid,andtheedgeissmart. langhai-00088 https://a0v0a.cn/
-ONEV'S DEN 上善若水，人淡如菊。这里是王巍 (onevcat) 的博客，用来记录一些技术和想法，主要专注于 Swift 和 iOS 开发。 langhai-00089 https://onevcat.com/
+Xuan's blog 一个热爱技术的软件工程专业学生的技术博客。这里记录着我在软件开发领域的学习心得、项目经验和技术探索，包括但不限于前端开发、后端开发、算法设计、系统架构等领域的深度思考与实践总结。 langhai-00089 https://blog.ybyq.wang/
 丫丫博客 一个技术分享与教程交流博客论坛。 langhai-00090 https://blog.yaqwq.top/
 不明のNetWork OS 五年代码，三年 BUG. langhai-00091 https://networkos.club
 狗头的作品 有一分热，发一分光。 langhai-00092 https://www.toolr.cn/
