@@ -24,7 +24,7 @@ Java实战博客 00002号 一个Java原创、真实战、免费博客站点。 h
 没有楼的楼长 00010号 事已至此，木已成舟。https://blog.sdnie.fun/
 一个薄荷 00011号 懒癌晚期95后的网络折腾和生活记录。 https://abohe.cn/
 不知道叫什么の小窝 00012号 Your New World!ヽ(*≧ω≦)ﾉ https://www.bzdjsm.com/ 
-Hary的博客 00013号 这是我在网络上的一个在线记事本，记录一些个人生活片段，以及一些自己在建站或者使用工具的一些经验分享。 https://hary.cc/
+韩情脉脉 任何记录都是为了让以后有迹可循。 langhai-00013 https://www.hxy.cc/
 目的地-Destination 00014号 前程似锦、未来可期、寻得良人、共赴白头，祝你也祝我。 https://blog.chrison.cn/
 丝诺博了个客 00015号 个人博客记二次三次日常。 https://zhangxue.name/
 ztr的小窝 记录 ztr 的学习与生活。langhai-00016 https://ztrztr.top/
