@@ -93,11 +93,11 @@ MORAEX博客 欢迎来到MoraEX博客，这里是一个新媒体行业社畜用�
 南蛮子懋和 李懋和，俗名李栋梁。书法、国画爱好者，互联网安全与前端建设者。 langhai-00079 https://www.dao.js.cn/
 OLDMING的杂货铺 记录生活碎碎念。 langhai-00080 https://www.oldming.cn/
 DONGDONG’S BLOG 科研、学习和生活中遇到的问题，解决之后，汇总成文档。 langhai-00081 https://ddw2019.com/
-EVAN'S SPACE Keep it real。 langhai-00082 https://www.evan.xin/
+寒夜雨 汀苇乱摇寒夜雨，沙鸥闲弄夕阳天。 langhai-00082 https://www.coderlock.site/
 开心宝 看站长这一生是如何走向深渊的。 langhai-00083 https://joyb.cc/
 QXDN的乐园 蓬生麻中，不扶自直。 langhai-00084 https://qianxu.run/
 天坠之家 天坠之家，项目聚合体。 langhai-00085 https://tz.tianzhuicn.cn/
-廖雪峰的官方网站 研究互联网产品和技术，提供原创中文精品教程。 langhai-00086 https://www.liaoxuefeng.com/
+流情的博客 希望能与你在比特之海的繁星之下相见。 langhai-00086 https://liuqingwushui.top/
 晨狐戏语 晨狐戏语又称晨狐博客（LiuZhuai.COM）,平行宇宙的一个宁静角落-晨狐的个人鼠窝最早搭建于2020年02月02日，仅用于分享资源，记录生活点滴以及发布一些言论。晨狐博客仅可以保存每篇文章都很有阅读价值。 langhai-00087 https://blog.liuzhuai.com/
 小C的时光归档 Bydesign,theInternetcoreisstupid,andtheedgeissmart. langhai-00088 https://a0v0a.cn/
 Xuan's blog 一个热爱技术的软件工程专业学生的技术博客。这里记录着我在软件开发领域的学习心得、项目经验和技术探索，包括但不限于前端开发、后端开发、算法设计、系统架构等领域的深度思考与实践总结。 langhai-00089 https://blog.ybyq.wang/
