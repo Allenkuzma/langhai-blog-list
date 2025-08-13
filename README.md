@@ -121,7 +121,7 @@ FIVETH 分享知识与生活。 langhai-00103 https://blog.fiveth.cc/
 DAIDAIFU'S BLOG I'M代代付，这是我的个人博客。 langhai-00107 https://www.ddf.im/
 LUVIICHANN的小天地 任何一种伟大的思想都源于一个微不足道的开始。 langhai-00108 https://luviichann.top/
 LineXic书屋 难离难舍，想抱紧些。 langhai-00109 https://www.linexic.top
-陈浩的个人主页 陈浩的个人主页。 langhai-00110 https://xn--v0wv58f.xn--ses554g/
+秋来冬风的博客 Github用户qiulaidongfeng的个人博客，主要和Go语言以及网站建设等互联网技术有关。我是一位专业的软件设计师，欢迎访问我的博客。 langhai-00110 https://qiulaidongfeng.github.io/
 AH新的生活小札 日常琐记，生活共赏。 langhai-00111 https://blog.ahxin.cn/
 纸鹿摸鱼处 纸鹿本鹿的个人博客，分享技术与生活。折腾不止，摸鱼生活——摸门🙏🏻 langhai-00112 https://blog.zhilu.cyou/
 阿涛の小破站 Docker技术分享。 langhai-00113 https://emohe.cn/
