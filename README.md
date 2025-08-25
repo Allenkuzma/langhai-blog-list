@@ -113,7 +113,7 @@ KARPED1EM 也许不会有人来看，但我依旧会在这里记录我的一切�
 云博客(BLOGCLOUD) 云博客是一个成立于2024年的专业编程技术分享平台。我们致力于提供全面的编程学习资源，涵盖WEB前端开发、Java后端开发、Python等领域。通过我们丰富多彩的学习教程、源码分享和技术交流活动，您可以轻松掌握各种编程技能，并与同行共同成长。加入云博客，开启您的编程之旅，探索技术世界的无限可能性！ langhai-00099 https://www.blogcloud.cn/
 Mareep’s Blog Highway to the Danger Zone! langhai-00100 https://www.mareep.cn/
 汐塔魔法屋 种下一颗有故事的种子，让它带着魔法和奇迹生根发芽。 langhai-00101 https://blog.storical.space/
-浩瀚星河 代码,日常,人生。 langhai-00102 https://haohanxinghe.com/
+严重浪漫 博客开通于2010.01.23 ，关注影视歌、硬件、科技、软件、SEO、互联网，欢迎交流。如果您喜欢本博客，可以收藏我。 langhai-00102 https://www.bat69.com/
 FIVETH 分享知识与生活。 langhai-00103 https://blog.fiveth.cc/
 八对星星 极目星视穹苍无界•足履行者大地有疆。 langhai-00104 https://8dui.com/
 萌小白 一款博主自己编写的微博客源码。 langhai-00105 https://5201317.xyz/
